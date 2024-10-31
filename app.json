@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Exlogrn",
+    "slug": "Exlogrn",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/app.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.ob-eduardo.Krystal-ios"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/app.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.ob_eduardo.Krystal"
+    },
+    "web": {
+      "favicon": "./assets/app.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "deda414b-ca80-4f41-b68c-2b830963c3d9"
+      }
+    }
+  }
+}
